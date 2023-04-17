@@ -2,6 +2,7 @@ Alternative Social Media Front-end Redirector
 =============================================
 
     
+    (Coming soon...)
 
 Alternative Social Media Front-end Redirector is a browser extension that automatically redirects URLs to alternative front-ends for popular social media platforms. This enhances user privacy and allows for greater customization options by using different, user-friendly interfaces.
 
